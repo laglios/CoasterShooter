@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: abef09bbffcbf4741908d6ce9696ed2d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _01_-_TransN
+    100002: _02_-_RotN
+    100004: _03_-_BatHipN
+    100006: _04_-_LBatWing01N
+    100008: _05_-_RBatWing01N
+    100010: _06_-_HipN
+    100012: _07_-_LLegJ
+    100014: _08_-_LKneeJ
+    100016: _09_-_LFootJ
+    100018: _10_-_LToeN
+    100020: _11_-_RLegJ
+    100022: _12_-_RKneeJ
+    100024: _13_-_RFootJ
+    100026: _14_-_RToeN
+    100028: _15_-_WaistN
+    100030: _16_-_HeadN
+    100032: _17_-_LShoulderJ
+    100034: _18_-_LArmJ
+    100036: _19_-_LHandN
+    100038: _20_-_LFingerBaseN
+    100040: _21_-_LIndex1N
+    100042: _22_-_LIndex2N
+    100044: _23_-_LIndex3N
+    100046: _24_-_LHaveN
+    100048: _25_-_LWing03N
+    100050: _26_-_RShoulderJ
+    100052: _27_-_RArmJ
+    100054: _28_-_RHandN
+    100056: _29_-_RFingerBaseN
+    100058: _30_-_RIndex1N
+    100060: _31_-_RIndex2N
+    100062: _32_-_RIndex3N
+    100064: _33_-_RHaveN
+    100066: _34_-_RWing03N
+    100068: _35_-_ThrowN
+    100070: devil_VIS_O_OBJ_
+    100072: devil_VIS_O_OBJ_ 1
+    100074: devil_VIS_O_OBJ_ 2
+    100076: devilbat_VIS_O_OBJ_
+    100078: devilbat_VIS_O_OBJ_ 1
+    100080: EnvironmentAmbientLight
+    100082: //RootNode
+    400000: _01_-_TransN
+    400002: _02_-_RotN
+    400004: _03_-_BatHipN
+    400006: _04_-_LBatWing01N
+    400008: _05_-_RBatWing01N
+    400010: _06_-_HipN
+    400012: _07_-_LLegJ
+    400014: _08_-_LKneeJ
+    400016: _09_-_LFootJ
+    400018: _10_-_LToeN
+    400020: _11_-_RLegJ
+    400022: _12_-_RKneeJ
+    400024: _13_-_RFootJ
+    400026: _14_-_RToeN
+    400028: _15_-_WaistN
+    400030: _16_-_HeadN
+    400032: _17_-_LShoulderJ
+    400034: _18_-_LArmJ
+    400036: _19_-_LHandN
+    400038: _20_-_LFingerBaseN
+    400040: _21_-_LIndex1N
+    400042: _22_-_LIndex2N
+    400044: _23_-_LIndex3N
+    400046: _24_-_LHaveN
+    400048: _25_-_LWing03N
+    400050: _26_-_RShoulderJ
+    400052: _27_-_RArmJ
+    400054: _28_-_RHandN
+    400056: _29_-_RFingerBaseN
+    400058: _30_-_RIndex1N
+    400060: _31_-_RIndex2N
+    400062: _32_-_RIndex3N
+    400064: _33_-_RHaveN
+    400066: _34_-_RWing03N
+    400068: _35_-_ThrowN
+    400070: devil_VIS_O_OBJ_
+    400072: devil_VIS_O_OBJ_ 1
+    400074: devil_VIS_O_OBJ_ 2
+    400076: devilbat_VIS_O_OBJ_
+    400078: devilbat_VIS_O_OBJ_ 1
+    400080: EnvironmentAmbientLight
+    400082: //RootNode
+    2100000: _
+    4300000: devilbat_VIS_O_OBJ_
+    4300002: devilbat_VIS_O_OBJ_
+    4300004: devil_VIS_O_OBJ_
+    4300006: devil_VIS_O_OBJ_
+    4300008: devil_VIS_O_OBJ_
+    9500000: //RootNode
+    13700000: devil_VIS_O_OBJ_
+    13700002: devil_VIS_O_OBJ_ 1
+    13700004: devil_VIS_O_OBJ_ 2
+    13700006: devilbat_VIS_O_OBJ_
+    13700008: devilbat_VIS_O_OBJ_ 1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

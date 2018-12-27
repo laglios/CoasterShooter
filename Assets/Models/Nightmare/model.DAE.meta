@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: a290580625bc95e40a606cabdbe83cbe
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: _01_-_TransN
+    100002: _02_-_RotN
+    100004: _03_-_ThrowN
+    100006: _04_-_ThrowN_BILLBOARD__O_OBJ_O_HIR_O_OBJ_O_HIR
+    100008: BodyM_VIS_O_OBJ_O_OBJ_NSC_
+    100010: //RootNode
+    100012: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    100014: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 1
+    100016: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 2
+    100018: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 3
+    100020: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 4
+    100022: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 5
+    100024: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 6
+    400000: _01_-_TransN
+    400002: _02_-_RotN
+    400004: _03_-_ThrowN
+    400006: _04_-_ThrowN_BILLBOARD__O_OBJ_O_HIR_O_OBJ_O_HIR
+    400008: BodyM_VIS_O_OBJ_O_OBJ_NSC_
+    400010: //RootNode
+    400012: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    400014: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 1
+    400016: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 2
+    400018: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 3
+    400020: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 4
+    400022: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 5
+    400024: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 6
+    2100000: _
+    4300000: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300002: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300004: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300006: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300008: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300010: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300012: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    4300014: BodyM_VIS_O_OBJ_O_OBJ_NSC_
+    9500000: //RootNode
+    13700000: BodyM_VIS_O_OBJ_O_OBJ_NSC_
+    13700002: OrbM_VIS_O_OBJ_O_OBJ_NSC_
+    13700004: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 1
+    13700006: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 2
+    13700008: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 3
+    13700010: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 4
+    13700012: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 5
+    13700014: OrbM_VIS_O_OBJ_O_OBJ_NSC_ 6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

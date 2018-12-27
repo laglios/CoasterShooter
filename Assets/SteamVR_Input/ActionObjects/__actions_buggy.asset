@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f79fc8f85e1028e4395462ea98e21998, type: 3}
+  m_Name: __actions_buggy
+  m_EditorClassIdentifier: 
+  allActions:
+  - {fileID: 11400000, guid: 8d6f312bdd1046242bec4e2ba971067b, type: 2}
+  - {fileID: 11400000, guid: 228a146d3419ddf40b39ec80f720bd89, type: 2}
+  - {fileID: 11400000, guid: 9a8760f923279a84f80948bf62afefbc, type: 2}
+  - {fileID: 11400000, guid: 9c316c78b57605f4da82653d34affb1b, type: 2}
+  nonVisualInActions:
+  - {fileID: 11400000, guid: 8d6f312bdd1046242bec4e2ba971067b, type: 2}
+  - {fileID: 11400000, guid: 228a146d3419ddf40b39ec80f720bd89, type: 2}
+  - {fileID: 11400000, guid: 9a8760f923279a84f80948bf62afefbc, type: 2}
+  - {fileID: 11400000, guid: 9c316c78b57605f4da82653d34affb1b, type: 2}
+  visualActions: []
+  poseActions: []
+  skeletonActions: []
+  outActionArray: []
+  fullPath: /actions/buggy
+  usage: single
+  inActions: {fileID: 11400000, guid: 1721e82b7f36f304dbe6552d3e167f8c, type: 2}
